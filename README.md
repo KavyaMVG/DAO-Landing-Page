@@ -2,7 +2,7 @@
 ![Time taken](https://img.shields.io/badge/Time%20taken-01H%3A30M%3A00S-tomato?style=for-the-badge&logo=Clockify)
 [![Demo](https://img.shields.io/badge/See%20Demo-Visit-green?style=for-the-badge&logo=web)](https://dao-landing-page.vercel.app/)
 
-# DOA Landing page
+# DAO Landing page
 
 > Project 5
 
